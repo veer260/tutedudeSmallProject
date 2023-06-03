@@ -1,7 +1,5 @@
-import React from "react";
 import Work from "../Work/Work";
 import { IoMdWallet } from "react-icons/io";
-import { MdOutlineAccountBalanceWallet } from "react-icons/md";
 import { BiRupee } from "react-icons/bi";
 import { TbDiscount } from "react-icons/tb";
 import { MdDiscount } from "react-icons/md";
